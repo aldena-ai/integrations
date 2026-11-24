@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aldena": {
+      "type": "http",
+      "url": "https://mcp.aldena.ai/mcp"
+    }
+  }
+}

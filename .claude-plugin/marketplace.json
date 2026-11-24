@@ -1,0 +1,16 @@
+{
+  "name": "aldena",
+  "owner": {
+    "name": "Aldena",
+    "email": "support@aldena.ai",
+    "url": "https://aldena.ai"
+  },
+  "description": "Aldena's plugins for Claude.",
+  "plugins": [
+    {
+      "name": "aldena",
+      "source": "./claude",
+      "description": "Adds Aldena's MCP server and a skill for agent runs, so Claude can hand tasks to your team's agents and check on them."
+    }
+  ]
+}
