@@ -1,0 +1,39 @@
+claude/.claude-plugin/plugin.json
+  s_f520975e0dda50::t_2993804ddf563c 1-20
+claude/skills/agent-runs/SKILL.md
+  s_f520975e0dda50::t_e241f98a8a4e4c 1-7,9,11-15,17-56
+  s_f520975e0dda50::t_121090b4c43276 10
+  s_f520975e0dda50::t_609b1f0c71814d 8
+  s_f520975e0dda50::t_41a641db4101ad 16
+.claude-plugin/marketplace.json
+  s_f520975e0dda50::t_fa21e9070b3d8a 1-16
+claude/.mcp.json
+  s_f520975e0dda50::t_fc6b80d016df82 1-8
+claude/README.md
+  s_f520975e0dda50::t_fcd8b3b5247a08 23
+  s_f520975e0dda50::t_4b13534272b6c1 1-22,24-49
+README.md
+  s_f520975e0dda50::t_ac79492b63325f 1-28
+LICENSE
+  s_f520975e0dda50::t_f03d2217366010 1-21
+claude/LICENSE
+  s_f520975e0dda50::t_c8ac6680225620 1-21
+claude/assets/icon.svg
+  s_f520975e0dda50::t_eaea4801650e16 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "21709ec27732a20e0bebeea08b5403641eb1ea0c",
+  "prompts": {},
+  "sessions": {
+    "s_f520975e0dda50": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7627dbe7-af69-454b-9fa9-f81ea121b962",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Aaron Delasy <aaron@delasy.com>"
+    }
+  }
+}
