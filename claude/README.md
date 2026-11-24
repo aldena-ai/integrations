@@ -40,7 +40,7 @@ Ask in your own words, for example:
 - "How is that run going?"
 - "Stop the run in the api project."
 
-Claude gives you the chat link for each run. To answer an agent's question or approve a tool call, open the Inbox link Claude shows you.
+Claude gives you the chat link for each run. When an agent asks a question or needs a tool approved, Claude shows it to you and sends back the answer you choose. You can also answer in the Inbox, at the link Claude shows you.
 
 The server's other tools cover most of the app, from teams and projects to skills, routines and billing. Each one acts as you, with your role in each team. The [MCP server docs](https://docs.aldena.ai/mcp) list what stays in the app.
 
